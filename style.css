@@ -1,0 +1,44 @@
+body {
+	background-color: mediumpurple;
+	}
+
+.myimg {
+width: 300px;
+height:300px;
+object-fit: cover;
+border-radius:50%;
+}
+
+#summary{
+	border: solid black  2px; 
+	background-color: plum;
+}
+#Facts{
+	border: solid black 2px ;
+	bakcground-color: plum;
+}
+	
+}
+
+ul{
+	display: table ;
+	margin: 0 auto;
+	border:  solid black 3px;
+	background-color: plum;
+	height: 50%;
+}
+
+li{
+	text-align: left;
+  	
+	background-color: plum;
+}
+
+p{
+	display: table ;
+	margin: 0 auto;
+	border:  solid black 3px;
+	background-color: plum;
+	padding:  30;
+
+}
